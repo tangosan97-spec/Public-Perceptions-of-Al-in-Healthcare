@@ -1,11 +1,11 @@
-# Public Perceptions of AI in Healthcare: A Large-Scale Analysis of Reddit Discussions
+# Public Perceptions of AI in Healthcare: A Large-Scale BERTopic and Sentiment Analysis of Reddit Discussions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the data, source code, and analysis pipeline for the manuscript **"Public Perceptions of AI in Healthcare: A Large-Scale Analysis of Reddit Discussions"**. 
+This repository contains the data, source code, and analysis pipeline for the manuscript **"Public Perceptions of AI in Healthcare: A Large-Scale BERTopic and Sentiment Analysis of Reddit Discussions"**. 
 
-The study systematically investigates public discourse on medical AI by analyzing 36,555 Reddit comments across 36 subreddits from March 1, 2020, to March 31, 2025. We employ BERTopic for dynamic topic modeling and an LLM-based zero-shot classification approach for sentiment analysis.
+The study systematically investigates public discourse on medical AI by analyzing 36,555 Reddit comments across 35 subreddits from March 1, 2020, to March 31, 2025. We employ BERTopic for dynamic topic modeling and an LLM-based zero-shot classification approach for sentiment analysis.
 
 ## Repository Structure
 
